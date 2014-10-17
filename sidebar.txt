@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xmx:home|Door43 (xmx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xmx|d43-xmx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xmx/archive/master.zip|d43-xmx.zip]]
+
+**Recent Changes**
+{{changes>ns = xmx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xmx|Ethnologue data]]
+
